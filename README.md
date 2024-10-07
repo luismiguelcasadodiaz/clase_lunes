@@ -5,4 +5,4 @@ veremos estos conceptos:
 + Commit
 + Documentar el commit
 + Historia de cambios
-+ Diferencias entre modificaciones
++ Comparar modificaciones
